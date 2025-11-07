@@ -20,7 +20,7 @@
   },
   "line_height": 1.0,
   "feature_freeze": {
-    "cv01": "ignore",
+    "cv01": "enable",
     "cv02": "ignore",
     "cv03": "ignore",
     "cv04": "ignore",
