@@ -1,4 +1,5 @@
 {
+  "$schema": "./source/schema.json",
   "family_name": "Maple Mono",
   "use_hinted": false,
   "pool_size": 4,
@@ -17,7 +18,7 @@
     "bold": 700,
     "extrabold": 800
   },
-  "line_height": 1,
+  "line_height": 1.0,
   "width": "default",
   "feature_freeze": {
     "cv01": "enable",
